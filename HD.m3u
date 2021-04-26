@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,|SP| COMEDY CENTRAL HD
-http://185.71.64.167:80/4501997621/0458977873/79321
-#EXTINF:-1,|SP| COSMO HD
-http://185.71.64.167:80/4501997621/0458977873/79320
-#EXTINF:-1,|SP| FOX HD
-http://185.71.64.167:80/4501997621/0458977873/79319
-#EXTINF:-1,|SP| FOX LIFE HD
-http://185.71.64.167:80/4501997621/0458977873/79318
-#EXTINF:-1,|SP| HOLLYWOOD HD
-http://185.71.64.167:80/4501997621/0458977873/79317
 XTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-url="" group-title="",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" tvg-url="" group-title="News",Exitosa TV
