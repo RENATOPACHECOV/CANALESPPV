@@ -58,7 +58,5 @@ http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28657
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28659
 #EXTINF:-1,Movistar Liga de Campeones 4
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28660
-#EXTINF:-1,TNT ES
-http://mag.clientportal.link:80/WL3KqSLWN577/xCCJhu/9423
-#EXTINF:-1,TNT HD ES
-http://mag.clientportal.link:80/WL3KqSLWN577/xCCJhu/12693
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" tvg-url="" group-title="News",Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
