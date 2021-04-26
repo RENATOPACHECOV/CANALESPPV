@@ -28,17 +28,21 @@ http://latinoamericatv.vip:3334/paco/paco123/51
 http://latinoamericatv.vip:3334/paco/paco123/49
 #EXTINF:-1,HBO SIGNATURE  SD
 http://latinoamericatv.vip:3334/paco/paco123/47
-#EXTINF:-1,Movistar LaLiga HD ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
-#EXTINF:-1,Movistar LaLiga 1 HD ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
-#EXTINF:-1,Movistar LaLiga 2 HD ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
-#EXTINF:-1,Movistar LaLiga 3 ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28328
-#EXTINF:-1,Movistar LaLiga 3 HD ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
-#EXTINF:-1,Movistar LaLiga 4 ES
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
-#EXTINF:-1,Movistar LaLiga ES
+#EXTINF:-1,Movistar LaLiga
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28334
+#EXTINF:-1,Movistar LaLiga HD
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28329
+#EXTINF:-1,Movistar LaLiga 1 HD
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28330
+#EXTINF:-1,Movistar LaLiga 2 HD
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28331
+#EXTINF:-1,Movistar LaLiga 3 HD
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28332
+#EXTINF:-1,Movistar LaLiga 4 HD
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/28333
+#EXTINF:-1,Mega
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/16262
+#EXTINF:-1,CNN en Español
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/22977
+#EXTINF:-1,Movistar Liga de Campeones FHD
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/23282
