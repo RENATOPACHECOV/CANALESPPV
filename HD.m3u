@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,STAR CHANNEL
-http://ipeteve.com/php/SR_REGIO_32/regio22.php?c=starch&f=.m3u8
+#EXTINF:-1,ESPN
+http://cdn1601.telerium.online:2052/free16/224/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDIxIDEwOjAzOjUyIFBNJmhhc2hfdmFsdWU9cjNnbmk1dlV0TmhuTXVEeUtmMktYUT09JnZhbGlkbWludXRlcz0yNDA=
